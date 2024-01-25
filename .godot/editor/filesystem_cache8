@@ -1,0 +1,42 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704387295
+3.png::CompressedTexture2D::2385458832073681686::1703040592::1703710323::1::::<><>::
+Abaddon Bold.ttf::FontFile::466198486917768867::1703108911::1703710323::1::::<><>::
+Background2.png::CompressedTexture2D::2539853574459713393::1703039458::1703710323::1::::<><>::
+Background12.png::CompressedTexture2D::8439902570401258999::1703043526::1703710324::1::::<><>::
+BehindBackground.png::CompressedTexture2D::591324887166783047::1703039319::1703710323::1::::<><>::
+character_body_2d.tscn::PackedScene::4610286777237909843::1703829092::0::1::::<><>::res://KinematicBody2D.gd<>uid://3668tl3x5nye::::res://Dude_Monster_Run_6.png<>res://Kick.gd<>uid://c5os0sui6pcxw::::res://Dude_Monster_Jump_8.png
+Clouds2.png::CompressedTexture2D::6342540788545496701::1703107361::1703710323::1::::<><>::
+default_env.tres::Environment::144825107714111816::1703829092::0::1::::<><>::
+Dude_Monster.png::CompressedTexture2D::9189032001588151408::1703036287::1703710323::1::::<><>::
+Dude_Monster_Attack2_6.png::CompressedTexture2D::1642959547845081912::1703828361::1703828398::1::::<><>::
+Dude_Monster_Jump_8.png::CompressedTexture2D::6908546492523322644::1703828389::1703828398::1::::<><>::
+Dude_Monster_Push_6.png::CompressedTexture2D::9048245499152496325::1703828389::1703828398::1::::<><>::
+Dude_Monster_Run_6.png::CompressedTexture2D::2031225506456005640::1703828395::1703710323::1::::<><>::
+export_presets.cfg::TextFile::-1::1703443318::0::1::::<><>::
+fantasy Dragon.ogg::AudioStreamOggVorbis::2594164628913508979::1703127970::1703710323::1::::<><>::
+Game over screen.tscn::PackedScene::4690004879360965304::1703829092::0::1::::<><>::uid://mmco7e3ac51l::::res://tilesetOpenGameBackground.png<>uid://dqhavhhm2ffsi::::res://Label2.png<>uid://dtamffviw73jb::::res://UI button Pressed2.png<>uid://bqngbj5s5jeq5::::res://UI button.png<>res://RestartButton.gd
+GameControlller.gd::GDScript::-1::1703710127::0::1::::<>Node<>::
+GameControlller.tscn::PackedScene::7974349703033300438::1703829091::0::1::::<><>::uid://5v243ts28bl2::::res://World.tscn<>uid://b724xvt8aejl5::::res://Game over screen.tscn<>uid://b6xi0quh8vleh::::res://character_body_2d.tscn<>res://GameControlller.gd<>uid://bpo1eomxr0tg1::::res://New Piskel15.png
+icon.png::CompressedTexture2D::3050775000822807539::1703032966::1703710323::1::::<><>::
+Kick.gd::GDScript::-1::1703724081::0::1::::<>Area2D<>::
+KinematicBody2D.gd::GDScript::-1::1703828782::0::1::::<>CharacterBody2D<>::
+Label1.png::CompressedTexture2D::7094420990497653301::1703108055::1703710324::1::::<><>::
+Label2.png::CompressedTexture2D::8296772074296833560::1703108223::1703710323::1::::<><>::
+New Piskel15.png::CompressedTexture2D::3469741166741263594::1703716956::1703716958::1::::<><>::
+Node2D.tscn::PackedScene::-1::1703710127::0::1::::<><>::res://Tileset2.png
+RestartButton.gd::GDScript::-1::1703710127::0::1::::<>TextureButton<>::
+Tiles.tres::TileSet::7146394846626896700::1703713436::0::1::::<><>::uid://cyavktii34ld8::::res://Tileset2.png
+Tileset1.png::CompressedTexture2D::8107314846152383021::1703033966::1703710323::1::::<><>::
+Tileset2.png::CompressedTexture2D::6458667540190265563::1703034006::1703710323::1::::<><>::
+Tileset.png::CompressedTexture2D::1894477931324619766::1703033763::1703710323::1::::<><>::
+tilesetOpenGame.png::CompressedTexture2D::7179756891474770380::1703033182::1703710323::1::::<><>::
+tilesetOpenGameBackground.png::CompressedTexture2D::867186780004035719::1703033208::1703710323::1::::<><>::
+Trees final1.png::CompressedTexture2D::5815048338986647977::1703440620::1703710324::1::::<><>::
+Trees final2.png::CompressedTexture2D::8680369597432046642::1703441704::1703710324::1::::<><>::
+Trees final.png::CompressedTexture2D::9090828231715571074::1703440580::1703710323::1::::<><>::
+UI button Pressed2.png::CompressedTexture2D::8493587908536457155::1703108541::1703710323::1::::<><>::
+UI button Pressed.png::CompressedTexture2D::5256045171154278098::1701055528::1703710323::1::::<><>::
+UI button.png::CompressedTexture2D::3536645700367470390::1701055528::1703710323::1::::<><>::
+Underground.png::CompressedTexture2D::968755208392417008::1703129512::1703710323::1::::<><>::
+World.tscn::PackedScene::2150709889664468557::1703723237::0::1::::<><>::uid://c821cxl5y6qpg::::res://Tiles.tres<>uid://iopbf45512ql::::res://BehindBackground.png<>uid://cwmmyqqamlhjx::::res://Clouds2.png<>uid://bc7vromnla6ix::::res://fantasy Dragon.ogg<>uid://co3385as4w58p::::res://Trees final1.png<>uid://n2jiy2eajxam::::res://Underground.png

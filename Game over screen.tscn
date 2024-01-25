@@ -1,0 +1,65 @@
+[gd_scene load_steps=6 format=3 uid="uid://b724xvt8aejl5"]
+
+[ext_resource type="Texture2D" uid="uid://mmco7e3ac51l" path="res://tilesetOpenGameBackground.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://dqhavhhm2ffsi" path="res://Label2.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://dtamffviw73jb" path="res://UI button Pressed2.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bqngbj5s5jeq5" path="res://UI button.png" id="4"]
+[ext_resource type="Script" path="res://RestartButton.gd" id="5"]
+
+[node name="gameOverScreen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 1024.0
+offset_bottom = 600.0
+texture = ExtResource("1")
+expand_mode = 1
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = 304.0
+offset_top = 112.0
+offset_right = 704.0
+offset_bottom = 372.0
+texture = ExtResource("2")
+
+[node name="TextureButton" type="TextureButton" parent="."]
+layout_mode = 0
+offset_left = 168.0
+offset_top = 400.0
+offset_right = 432.0
+offset_bottom = 488.0
+texture_normal = ExtResource("4")
+texture_pressed = ExtResource("3")
+script = ExtResource("5")
+
+[node name="Label" type="Label" parent="TextureButton"]
+layout_mode = 0
+offset_top = 32.0
+offset_right = 264.0
+offset_bottom = 104.0
+text = "Restart"
+uppercase = true
+
+[node name="TextureButton2" type="TextureButton" parent="."]
+layout_mode = 0
+offset_left = 560.0
+offset_top = 400.0
+offset_right = 824.0
+offset_bottom = 488.0
+texture_normal = ExtResource("4")
+texture_pressed = ExtResource("3")
+
+[node name="Label" type="Label" parent="TextureButton2"]
+layout_mode = 0
+offset_top = 32.0
+offset_right = 264.0
+offset_bottom = 104.0
+text = "Exit Game"
+uppercase = true
